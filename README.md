@@ -4,7 +4,7 @@ Provides the Fluent UI icon library packaged as [Blazicons](https://github.com/k
 Check out the [Demo Site](http://blazicons.com).
 
 ## Getting Started
-To get started using the Fluent UI Blazicons, just install the FluentUI.Bootstrap NuGet package.
+To get started using the Fluent UI Blazicons, just install the Blazicons.FluentUI NuGet package.
 
 Next add the Blazicons reference to the `_Imports.razor` file in the Blazor project.
 
