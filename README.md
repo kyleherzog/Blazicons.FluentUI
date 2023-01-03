@@ -3,6 +3,10 @@ Provides the Fluent UI icon library packaged as [Blazicons](https://github.com/k
 
 Check out the [Demo Site](http://blazicons.com).
 
+![Nuget](https://img.shields.io/nuget/v/Blazicons.FluentUI)
+
+[![Build Status](https://dev.azure.com/kyleherzog/Blazicons/_apis/build/status/Blazicons.FluentUI?branchName=main)](https://dev.azure.com/kyleherzog/Blazicons/_build/latest?definitionId=18&branchName=main)
+
 ## Getting Started
 To get started using the Fluent UI Blazicons, just install the Blazicons.FluentUI NuGet package.
 
