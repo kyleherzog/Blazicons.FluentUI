@@ -1,6 +1,9 @@
 # Changelog
 These are the list of changes to each version that has been released.
 
+## 1.10
+- [x] Updated Fluent UI Icons to v1.1.207
+
 ## 1.9
 - [x] Updated Fluent UI Icons to v1.1.206
 
