@@ -2,7 +2,7 @@
 These are the list of changes to each version that has been released.
 
 ## 1.14
-- [x] Updated Fluent UI Icons to v1.1.214
+- [x] Updated Fluent UI Icons to v1.1.215
 
 ## 1.13
 - [x] Updated Fluent UI Icons to v1.1.212
