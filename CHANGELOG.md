@@ -1,6 +1,9 @@
 # Changelog
 These are the list of changes to each version that has been released.
 
+## 2.0
+- [x] Updated Blazicons to v2.0.28
+
 ## 1.27
 - [x] Updated Fluent UI Icons to v1.1.235
 
