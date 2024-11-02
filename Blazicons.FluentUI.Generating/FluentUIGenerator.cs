@@ -34,7 +34,7 @@ internal class FluentUIGenerator : ISourceGenerator
         // required by ISourceGenerator
     }
 
-    private string GetPropertyName(string fileName)
+    private static string GetPropertyName(string fileName)
     {
         const string prefix = "Ic_Fluent_";
         var result = Path.GetFileNameWithoutExtension(fileName);
