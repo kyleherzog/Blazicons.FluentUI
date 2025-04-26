@@ -4,9 +4,9 @@
     <LangVersion>13.0</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <ApplicationVersion>2.14</ApplicationVersion>
+    <ApplicationVersion>2.15</ApplicationVersion>
     <ApplicationRevision>0</ApplicationRevision>
-    <Version>2.14</Version>
+    <Version>2.15</Version>
     <IsTrimmable>true</IsTrimmable>
     <Authors>Kyle Herzog</Authors>
     <PackageTags>Blazor Fluent UI Icons SVG</PackageTags>
