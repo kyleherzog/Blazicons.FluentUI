@@ -4,9 +4,9 @@
     <LangVersion>13.0</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <ApplicationVersion>2.18</ApplicationVersion>
+    <ApplicationVersion>2.19</ApplicationVersion>
     <ApplicationRevision>0</ApplicationRevision>
-    <Version>2.18</Version>
+    <Version>2.19</Version>
     <IsTrimmable>true</IsTrimmable>
     <Authors>Kyle Herzog</Authors>
     <PackageTags>Blazor Fluent UI Icons SVG</PackageTags>
@@ -53,7 +53,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="SonarAnalyzer.CSharp" Version="10.12.0.118525">
+    <PackageReference Include="SonarAnalyzer.CSharp" Version="10.15.0.120848">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
