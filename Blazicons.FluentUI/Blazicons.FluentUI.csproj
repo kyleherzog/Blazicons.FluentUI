@@ -4,9 +4,9 @@
     <LangVersion>14.0</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <ApplicationVersion>2.21</ApplicationVersion>
+    <ApplicationVersion>2.22</ApplicationVersion>
     <ApplicationRevision>0</ApplicationRevision>
-    <Version>2.21</Version>
+    <Version>2.22</Version>
     <IsTrimmable>true</IsTrimmable>
     <Authors>Kyle Herzog</Authors>
     <PackageTags>Blazor Fluent UI Icons SVG</PackageTags>
@@ -66,7 +66,7 @@
     <ProjectReference Include="..\Blazicons.FluentUI.Generating\Blazicons.FluentUI.Generating.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
   </ItemGroup>
   <ItemGroup>
-    <None Update="blazicons-md-128.png">
+    <None Include="blazicons-md-128.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>

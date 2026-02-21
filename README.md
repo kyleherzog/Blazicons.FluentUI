@@ -5,7 +5,7 @@ Check out the [Demo Site](http://blazicons.com).
 
 ![Nuget](https://img.shields.io/nuget/v/Blazicons.FluentUI)
 
-[![Build Status](https://dev.azure.com/kyleherzog/Blazicons/_apis/build/status/Blazicons.FluentUI?branchName=main)](https://dev.azure.com/kyleherzog/Blazicons/_build/latest?definitionId=18&branchName=main)
+[![Build Status](https://dev.azure.com/kyleherzog/Blazicons/_apis/build/status%2FBlazicons.FluentUI?branchName=main)](https://dev.azure.com/kyleherzog/Blazicons/_build/latest?definitionId=39&branchName=main)
 
 ## Getting Started
 To get started using the Fluent UI Blazicons, just install the Blazicons.FluentUI NuGet package.
