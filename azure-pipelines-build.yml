@@ -10,7 +10,7 @@ parameters:
 
   - name: PackTarget
     type: string
-    default: '**/*.csproj;!**/*Tests.csproj'
+    default: '**/*.csproj;!**/*Tests.csproj;!**/*Generating.csproj'
     # Path to project(s) to pack
 
 variables:
