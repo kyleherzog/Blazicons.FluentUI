@@ -6,6 +6,7 @@
     <File Path="LICENSE" />
     <File Path="README.md" />
   </Folder>
-  <Project Path="Blazicons.FluentUI.Generating/Blazicons.FluentUI.Generating.csproj" />
+  <Project Path="Blazicons.FluentUI.FilledIcons/Blazicons.FluentUI.FilledIcons.csproj" Id="d3bb0b4f-643d-43ff-8ec0-153b22caabde" />
+  <Project Path="Blazicons.FluentUI.Icons/Blazicons.FluentUI.Icons.csproj" Id="c097458b-c1a3-4956-8321-e72ad79fb4ba" />
   <Project Path="Blazicons.FluentUI/Blazicons.FluentUI.csproj" />
 </Solution>
