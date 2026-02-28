@@ -43,7 +43,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="SonarAnalyzer.CSharp" Version="10.19.0.132793">
+    <PackageReference Include="SonarAnalyzer.CSharp" Version="10.20.0.135146">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
@@ -63,7 +63,13 @@
     <Folder Include="Generated\Blazicons.FluentUI.Generating\Blazicons.FluentUI.Generating.FluentUIGenerator\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Blazicons.FluentUI.FilledIcons\Blazicons.FluentUI.FilledIcons.csproj" />
-    <ProjectReference Include="..\Blazicons.FluentUI.Icons\Blazicons.FluentUI.Icons.csproj" />
+    <ProjectReference Include="..\Blazicons.FluentUI.FilledIcons\Blazicons.FluentUI.FilledIcons.csproj">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </ProjectReference>
+    <ProjectReference Include="..\Blazicons.FluentUI.Icons\Blazicons.FluentUI.Icons.csproj">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </ProjectReference>
   </ItemGroup>
 </Project>
