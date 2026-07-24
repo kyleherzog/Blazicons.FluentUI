@@ -20,7 +20,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Blazicons" Version="3.0.12" />
+    <PackageReference Include="Blazicons" Version="4.0.21" />
     <PackageReference Include="Blazicons.Generating" Version="3.3.35">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
